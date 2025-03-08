@@ -1,24 +1,73 @@
-<!DOCTYPE html>
-<html lang="ar">
+
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>165047- Furat</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Furat</title>
+    <style>
+    body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
 </head>
 <body>
 
     <header>
         <h1>Hello, I am Furat</h1>
-        <p>Cyber security</p>
+        <p>Major:Cyber security</p>
+        <h2> ID:165047 </h2>
     </header>
+    <img src="furat.jpg" alt="Your photo">
 
-    <nav>
-        <ul>
-            <li><a href="index.html">اHome</a></li>
-            <li><a href="contact.html">contact me</a></li>
-        </ul>
-    </nav>
 
     <section>
         <h2>my skills</h2>
@@ -42,7 +91,7 @@
             </tr>
             <tr>
                 <td>PYTHON</td>
-                <td><a href="https://www.kaggle.com/python/">learn PYTHON</a></td>
+                <td><a href="https://www.kaggle.com/">learn PYTHON</a></td>
             </tr>
            
             
