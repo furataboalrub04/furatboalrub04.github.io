@@ -1,0 +1,59 @@
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>165047-Furat Aboalrub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Hello, I am Furat</h1>
+        <p>cyber security</p>
+        <img src="furat.jpg", width="200", height="200", alt= " this picture for me"/>
+       
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="contact.html">Contact me</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>My skills</h2>
+        <ul>
+            <li>CTF</li>
+            <li>Team work</li>
+            
+        </ul>
+    </section>
+
+    <section>
+        <h2>my favorite programming languages</h2>
+        <table border="1">
+            <tr>
+                <th>language</th>
+                <th>link to learn more</th>
+            </tr>
+            <tr>
+                <td>HTML</td>
+                <td><a href="https://www.w3schools.com/html/">learn HTML</a></td>
+            </tr>
+            <tr>
+                <td>PYTHON</td>
+                <td><a href="https://www.kaggle.com">learn PYTHON</a></td>
+            </tr>
+            
+        </table>
+    </section>
+
+    <section>
+        <h2>contact me</h2>
+        <p>you can contact me at<a href="mailto:furataboalrub@gmail.com">furataboalrub@gmail.com</a></p>
+    </section>
+
+</body>
+</html>
